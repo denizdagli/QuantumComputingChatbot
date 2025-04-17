@@ -1,6 +1,9 @@
 # 🧠 Quantum Computing Chatbot
 This project is an AI-powered chatbot that answers questions about Quantum Computing using the contents of a PDF document. It processes the document, stores it as embeddings, and uses a retrieval-based method to respond to user queries via a conversational interface.
 
+![App Screenshot](https://github.com/denizdagli/QuantumComputingChatbot/blob/main/image.jpg)
+
+
 ## 🚀 Features
 - Loads and analyzes a PDF document
 
